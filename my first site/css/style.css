@@ -1,0 +1,29 @@
+body {
+      text-align: center;
+      background: url("https://scontent.xx.fbcdn.net/t31.0-8/11023521_625296474236643_8524559203275928054_o.jpg");
+      background-size: cover;
+      background-position: center;
+      color: white;
+      font-family: helvetica;
+      
+    }
+p{
+	color: green;
+}
+h1{
+  font-size: 45px;
+}
+h2{
+  font-size: 30px;
+}
+h3{
+  font-size:25px;
+  text-decoration: underline;456789
+}
+ul{
+  font-style: courier;
+  font-size: 23px;
+}
+a{
+  color: green;
+}
